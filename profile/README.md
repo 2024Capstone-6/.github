@@ -10,9 +10,7 @@
 - 🐛 fix: 버그 수정
 - 🎨 style: 코드 포맷팅, 세미콜론 누락 등 문법 관련 수정
 - 🔨 chore: 빌드 업무 수정, 패키지 매니저 설정 등
-- 🎉 init: 프로젝트 초기 설정 및 초기 커밋
-- ➕ plus: 의존성 추가
-- ➖ minus: 의존성 제거
+- 🎉 init: 프로젝트 초기 설정 및 초기 커밋\
 - ⚙️ config: 설정 파일 수정
 - 📝 docs: 문서 수정
 - 🚀 deploy: 배포 관련 커밋
@@ -24,12 +22,10 @@
 
 - **Feature**: 새로운 기능을 개발하기 위한 브랜치
 - **Hotfix**: 긴급 버그 수정을 위한 브랜치
-- **Release**: 배포 준비를 위한 브랜치
 - **Refactor**: 코드 리팩토링을 위한 브랜치
 
 📌 **브랜치명 규칙**
 
 - **Feature 브랜치**: `feat/feature-name` (예: `feat/user-authentication`)
 - **Hotfix 브랜치**: `fix/hotfix-description` (예: `fix/urgent-login-bug`)
-- **Release 브랜치**: `release/release-version` (예: `release/1.0.0`)
 - **Refactor 브랜치**: `refactor/refactor-description` (예: `refactor/code-cleanup`)
