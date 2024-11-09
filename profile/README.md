@@ -35,26 +35,3 @@
 
 - **Refactor 브랜치**: `refactor/refactor-description`  
   _예시: `refactor/code-cleanup`_
-
-## 📄 **코딩 스타일 규칙**
-
-파일명, 변수명, 함수명, 클래스명 규칙을 반드시 준수할 것
-
-### 📌 **파일명 규칙**
-
-- **케밥 케이스**를 사용
-- 모든 파일명은 소문자와 하이픈(`-`)을 사용해 작성
-- _예시: `user-authentication.ts`, `recipe-detail.jsx`_
-
-### 📌 **변수 및 함수명 규칙**
-
-- **카멜 케이스**를 사용
-- 첫 글자는 소문자로 시작하며, 그 이후의 각 단어는 첫 글자를 대문자로 작성
-- _예시: `getUserInfo()`, `handleButtonClick()`_
-
-### 📌 **클래스명 규칙**
-
-- **파스칼 케이스**를 사용
-- 모든 단어의 첫 글자를 대문자로 작성
-- _예시: `UserProfile`, `RecipeDetailCard`_
-  
